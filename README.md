@@ -13,7 +13,7 @@ A Sinusbot Script that keeps a history of all played tracks displayed in a beaut
 
 # Installation (German)
 
-1. Die aktuellse Version hier herunterladen: [Download](https://github.com/CubE135/TrackHistory/releases)
+1. Die aktuellste Version hier herunterladen: [Download](https://github.com/CubE135/TrackHistory/releases)
 2. Den Inhalt der .zip oder .tar.gz entpacken und in den "scripts"-Ordner von Sinusbot verschieben (die trackhistory.js und der trackhistory Ordner reichen aus)
 3. Sinusbot neu starten
 4. Script in Sinusbot aktivieren
