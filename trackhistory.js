@@ -1,7 +1,7 @@
 registerPlugin({
     name: 'TrackHistory',
-    version: '1.0',
-    backends: ['ts3'],
+    version: '1.1',
+    backends: ['ts3', 'discord'],
     description: 'TrackHistory',
     author: 'CubE135',
     enableWeb: true

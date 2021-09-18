@@ -113,7 +113,7 @@ function renderDataTable(data) {
             { data: 'type' },
             { data: 'actions' }
         ],
-        order: [[ 3, "desc" ]]
+        order: [[ 0, "desc" ]]
     } );
 }
 
